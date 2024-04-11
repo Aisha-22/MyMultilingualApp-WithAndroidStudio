@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stings" />
+    <string name="welcome_afrikaans">Welkom op bladsy 2</string>
+    <string name="welcome_zulu">Wamukelekile ekhasini lesi-2</string>
+
+    <string-array name="stings1">
+        <item>English</item>
+        <item>Afrikaans</item>
+        <item>Zulu</item>
+    </string-array>
+</resources>
+
